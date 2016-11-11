@@ -1,0 +1,2 @@
+class NodeRenderer
+end
